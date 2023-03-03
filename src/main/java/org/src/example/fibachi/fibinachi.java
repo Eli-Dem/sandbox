@@ -1,4 +1,4 @@
-package org.example.fibachi;
+package org.src.example.fibachi;
 
 import java.util.HashMap;
 import java.util.Map;
